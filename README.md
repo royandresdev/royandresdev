@@ -1,9 +1,11 @@
 ## Hola a todos 👋
 
 - 🔭 Actualmente estoy trabajando en desarrollar mi perfil profesional
-- 🌱 Estoy estudiando React y UX en coursera
+- 🌱 Estoy estudiando React y UX
 
 Mi stack es: React, Javascript y Figma
+
+[Mi anterior Github](https://github.com/RoyHuamanAvila)
 
 Psdt: Este es solo un borrador c:
 <!--
