@@ -1,3 +1,6 @@
+![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/a5710b35-ce1a-49fd-be70-79ca50b58a15)
+
+
 ## Hola a todos 👋
 
 - 🔭 Actualmente estoy trabajando en desarrollar mi perfil profesional
